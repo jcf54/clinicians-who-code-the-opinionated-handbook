@@ -65,6 +65,6 @@ markdown_extensions:
 
 copyright: Copyright &copy; 2021 Dr Marcus Baw
 repo_url: https://github.com/pacharanero/clinicians-who-code-the-opinionated-handbook
-
+repo_name: "Clinicians Who Code - The Opinionated Handbook"
 extra_css:
   - stylesheets/extra.css
